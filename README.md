@@ -26,7 +26,3 @@ This project implements a simple banking system in Java. It demonstrates the app
 
 - **Bank Class**: Interacts with accounts through the abstract `Account` class rather than concrete implementations, showcasing the DIP by depending on abstractions not on concretions.
 
-## Getting Started
-
-To run this project, clone the repository and compile the Java files in your preferred IDE or command line:
-
